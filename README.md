@@ -1,6 +1,30 @@
-# Kontener prezentacji dla przedmiotu Zaawansowane Zagadnienia Programowania w Javie
-Edycja 2019
+## Kontener prezentacji dla przedmiotu Zaawansowane Zagadnienia Programowania w Javie - Edycja 2019
 
+
+### Organizacja zajęć:
+- Krótki wykład – przedstawienie problemu, rozwiązania lub technologii
+- Live coding
+- Ćwiczenia praktyczne
+
+
+### Zaliczenie:
+- Projekt grupowy (4-5 osób)
+- Elementy podlegające ocenie w projekcie grupowym (70% oceny):
+  - Testy
+  - Współpraca z Git/Github/CI/IDE
+  - Clean code
+  - Programowanie funkcyjne
+  - Wzorce projektowe
+  - Użycie dodatkowych funkcjonalności spoza prezentowanych tematów
+  - Integracja z zewnętrznym zasobem po REST
+  - ...
+  - *UI, UX nie mają znaczenia!*
+- Indywidualna odpowiedź ustna (30% oceny)
+- Obecność
+- Aktywność i realizacja zadań z prezentowanego tematu (+0.5 do oceny końcowej)
+
+
+### Ramowy plan zajęć: 
 Lp | Temat | Grupa wtorkowa | Grupa środowa | Prowadzący | Uwagi
 --- | --- | --- | --- | --- | --- 
 1 | Wprowadzenie/Maven | 5.03 | 6.03 | ZN | 
