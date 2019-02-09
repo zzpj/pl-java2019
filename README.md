@@ -1,7 +1,7 @@
 # Kontener prezentacji dla przedmiotu Zaawansowane Zagadnienia Programowania w Javie
 Edycja 2019
 
-Lp | Temat | Termin Gr.1 |Termin Gr.2 | Prowadzący | Uwagi
+Lp | Temat | Grupa wtorkowa | Grupa środowa | Prowadzący | Uwagi
 --- | --- | --- | --- | --- | --- 
 1 | Wprowadzenie/Maven | 5.03 | 6.03 | ZN | 
 2 | Git/GitHub/Travis | 12.03 | 13.03 | MD | 
