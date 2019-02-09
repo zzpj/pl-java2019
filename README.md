@@ -1,11 +1,13 @@
 ## Kontener prezentacji dla przedmiotu Zaawansowane Zagadnienia Programowania w Javie - Edycja 2019
 
+### Prowadzący 
+- Aaaaa Bbbbb (aaaa.bbbb@localhost.xd)
+- Ccccc Dddddd (cd@localhost.xd)
 
 ### Organizacja zajęć:
 - Krótki wykład – przedstawienie problemu, rozwiązania lub technologii
 - Live coding
 - Ćwiczenia praktyczne
-
 
 ### Zaliczenie:
 - Projekt grupowy (4-5 osób)
@@ -20,9 +22,8 @@
   - ...
   - *UI, UX nie mają znaczenia!*
 - Indywidualna odpowiedź ustna (30% oceny)
-- Obecność
+- Obecność i brak spóźnień
 - Aktywność i realizacja zadań z prezentowanego tematu (+0.5 do oceny końcowej)
-
 
 ### Ramowy plan zajęć: 
 Lp | Temat | Grupa wtorkowa | Grupa środowa | Prowadzący | Uwagi
@@ -43,3 +44,4 @@ Lp | Temat | Grupa wtorkowa | Grupa środowa | Prowadzący | Uwagi
 14 | Microservices | 11.06 | 12.06 | ?? | 
 15 | Sprawdzenie projektu końcowego | 25.06 | 26.06 | ZN+MD | 
 
+.
