@@ -1,8 +1,8 @@
 ## Kontener prezentacji dla przedmiotu Zaawansowane Zagadnienia Programowania w Javie - Edycja 2019
 
 ### Prowadzący 
-- Aaaaa Bbbbb (aaaa.bbbb@localhost.xd)
-- Ccccc Dddddd (cd@localhost.xd)
+- Michal Dubel (Michal.Dubel@ttpsc.pl)
+- Zbyszko Natkanski (ZbyszkoNatkanski@gmail.com)
 
 ### Organizacja zajęć:
 - Krótki wykład – przedstawienie problemu, rozwiązania lub technologii
