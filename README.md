@@ -35,13 +35,13 @@ Lp | Temat | Grupa wtorkowa | Grupa środowa | Prowadzący | Uwagi
 5 | Clean Code | 2.04 | 3.04 | ZN |
 6 | IntelliJ | 9.04 | 10.04 | MD | 
 7 | Project conception | 16.04 | 24.04 | ZN+MD | Zmiany w kalendarzu akademickim
-8 | Generics | 30.04 | 19.06 | ?? | Zmiany w kalendarzu akademickim
+8 | Generics | 30.04 | 19.06 | AW | Zmiany w kalendarzu akademickim
 9 | Design Patterns | 7.05 | 8.05 | ZN |
 10 | RxJava | 14.05 | 15.05 | MD | 
 11 | Functional programming (Java8) | 21.05 | 22.05 | ZN | 
 12 | Vavr/Java 9, 10, 11 | 28.05 | 29.05 | MD | 
 13 | Project progress check #2 | 4.06 | 5.06 | ZN+MD | 
-14 | Microservices | 11.06 | 12.06 | ?? | 
+14 | Microservices | 11.06 | 12.06 | AW | 
 15 | Sprawdzenie projektu końcowego | 25.06 | 26.06 | ZN+MD | 
 
 .
