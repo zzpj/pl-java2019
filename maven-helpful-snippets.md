@@ -1,3 +1,5 @@
+*Rozwiązania do zadań prezentowany na zajęciach znajdują się w katalogu "maven-solutions"*
+
 ## Maven helpful snippets 
 
 Generate project structure:
