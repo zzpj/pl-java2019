@@ -1,0 +1,567 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="1ee59b46-92f4-4c77-bab9-e8ee5438e8ed" name="Default" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/transition/technologies/unittesting/mockito/routefinder/RouteObtainerServiceTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/transition/technologies/unittesting/mockito/routefinder/RouteObtainerServiceTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../mockito-example/MockitoDemo.iml" beforeDir="false" afterPath="$PROJECT_DIR$/../mockito-example/MockitoDemo.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../mockito-fizz-buzz/MockitExercise.iml" beforeDir="false" afterPath="$PROJECT_DIR$/../mockito-fizz-buzz/MockitExercise.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../mutants/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../mutants/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../mutants/target/maven-archiver/pom.properties" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../mutants/target/mutants-0.0.1-SNAPSHOT.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../mutants/target/pit-reports/201803182050/index.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../mutants/target/pit-reports/201803182050/pl.com.tt.mutants/CannotCalculateSquareRootOfNegativeNumber.java.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../mutants/target/pit-reports/201803182050/pl.com.tt.mutants/MagicCalculator.java.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../mutants/target/pit-reports/201803182050/pl.com.tt.mutants/index.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../mutants/target/pit-reports/201803182050/style.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../mutants/target/pit-reports/201803182052/index.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../mutants/target/pit-reports/201803182052/pl.com.tt.mutants/CannotCalculateSquareRootOfNegativeNumber.java.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../mutants/target/pit-reports/201803182052/pl.com.tt.mutants/MagicCalculator.java.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../mutants/target/pit-reports/201803182052/pl.com.tt.mutants/index.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../mutants/target/pit-reports/201803182052/style.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../mutants/target/pit-reports/201803182053/index.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../mutants/target/pit-reports/201803182053/pl.com.tt.mutants/CannotCalculateSquareRootOfNegativeNumber.java.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../mutants/target/pit-reports/201803182053/pl.com.tt.mutants/MagicCalculator.java.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../mutants/target/pit-reports/201803182053/pl.com.tt.mutants/index.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../mutants/target/pit-reports/201803182053/style.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../mutants/target/pit-reports/201803190857/index.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../mutants/target/pit-reports/201803190857/pl.com.tt.mutants/CannotCalculateSquareRootOfNegativeNumber.java.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../mutants/target/pit-reports/201803190857/pl.com.tt.mutants/MagicCalculator.java.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../mutants/target/pit-reports/201803190857/pl.com.tt.mutants/index.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../mutants/target/pit-reports/201803190857/style.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../mutants/target/pit-reports/201803190900/index.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../mutants/target/pit-reports/201803190900/pl.com.tt.mutants/CannotCalculateSquareRootOfNegativeNumber.java.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../mutants/target/pit-reports/201803190900/pl.com.tt.mutants/MagicCalculator.java.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../mutants/target/pit-reports/201803190900/pl.com.tt.mutants/index.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../mutants/target/pit-reports/201803190900/style.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../mutants/target/surefire-reports/TEST-pl.com.tt.mutants.MagicCalculatorTest.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../mutants/target/surefire-reports/pl.com.tt.mutants.MagicCalculatorTest.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../mutants/target/test-classes/pl/com/tt/mutants/MagicCalculatorTest.class" beforeDir="false" />
+    </list>
+    <ignored path="$PROJECT_DIR$/target/" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileEditorManager">
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/test/java/transition/technologies/unittesting/mockito/examples/GeneralMockitoStubsExamples.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="60">
+              <caret line="28" column="13" selection-start-line="28" selection-start-column="13" selection-end-line="28" selection-end-column="13" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/test/java/transition/technologies/unittesting/mockito/examples/PersonBuilderTest.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="60">
+              <caret line="10" column="13" selection-start-line="10" selection-start-column="13" selection-end-line="10" selection-end-column="13" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/test/java/transition/technologies/unittesting/mockito/examples/PersonReportFormatterTest.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="75">
+              <caret line="17" column="13" selection-start-line="17" selection-start-column="13" selection-end-line="17" selection-end-column="13" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/test/java/transition/technologies/unittesting/mockito/routefinder/RouteObtainerTestUtil.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="60">
+              <caret line="4" column="13" selection-start-line="4" selection-start-column="13" selection-end-line="4" selection-end-column="13" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/test/java/transition/technologies/unittesting/mockito/routefinder/RouteObtainerServiceTest.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="450">
+              <caret line="69" selection-start-line="69" selection-end-line="70" selection-end-column="49" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/java/transition/technologies/unittesting/mockito/routefinder/RouteCalculatorWebService.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="60">
+              <caret line="7" column="17" selection-start-line="7" selection-start-column="17" selection-end-line="7" selection-end-column="17" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/java/transition/technologies/unittesting/mockito/routefinder/RouteObtainerService.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="450">
+              <caret line="30" column="51" selection-start-line="30" selection-start-column="51" selection-end-line="30" selection-end-column="51" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/java/transition/technologies/unittesting/mockito/routefinder/RouteCache.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="30">
+              <caret line="2" column="13" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="13" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/src/test/java/transition/technologies/unittesting/mockito/routefinder/RouteObtainerServiceTest.java" />
+      </list>
+    </option>
+  </component>
+  <component name="MavenImportPreferences">
+    <option name="importingSettings">
+      <MavenImportingSettings>
+        <option name="importAutomatically" value="true" />
+      </MavenImportingSettings>
+    </option>
+  </component>
+  <component name="ProjectFrameBounds" extendedState="6">
+    <option name="x" value="67" />
+    <option name="y" value="25" />
+    <option name="width" value="927" />
+    <option name="height" value="1055" />
+  </component>
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectView">
+    <navigator proportions="" version="1">
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="ProjectPane">
+        <subPane>
+          <expand>
+            <path>
+              <item name="zaawansowana-java-testowanie" type="b2602c69:ProjectViewProjectNode" />
+              <item name="mocking" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="zaawansowana-java-testowanie" type="b2602c69:ProjectViewProjectNode" />
+              <item name="mocking" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="zaawansowana-java-testowanie" type="b2602c69:ProjectViewProjectNode" />
+              <item name="mocking" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="zaawansowana-java-testowanie" type="b2602c69:ProjectViewProjectNode" />
+              <item name="mocking" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="zaawansowana-java-testowanie" type="b2602c69:ProjectViewProjectNode" />
+              <item name="mocking" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="unittesting" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="zaawansowana-java-testowanie" type="b2602c69:ProjectViewProjectNode" />
+              <item name="mocking" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="unittesting" type="462c0819:PsiDirectoryNode" />
+              <item name="basic" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="zaawansowana-java-testowanie" type="b2602c69:ProjectViewProjectNode" />
+              <item name="mocking" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="unittesting" type="462c0819:PsiDirectoryNode" />
+              <item name="mockito" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="zaawansowana-java-testowanie" type="b2602c69:ProjectViewProjectNode" />
+              <item name="mocking" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="unittesting" type="462c0819:PsiDirectoryNode" />
+              <item name="mockito" type="462c0819:PsiDirectoryNode" />
+              <item name="examples" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="zaawansowana-java-testowanie" type="b2602c69:ProjectViewProjectNode" />
+              <item name="mocking" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="unittesting" type="462c0819:PsiDirectoryNode" />
+              <item name="mockito" type="462c0819:PsiDirectoryNode" />
+              <item name="routefinder" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="zaawansowana-java-testowanie" type="b2602c69:ProjectViewProjectNode" />
+              <item name="mocking" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="test" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="zaawansowana-java-testowanie" type="b2602c69:ProjectViewProjectNode" />
+              <item name="mocking" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="test" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="zaawansowana-java-testowanie" type="b2602c69:ProjectViewProjectNode" />
+              <item name="mocking" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="test" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="unittesting" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="zaawansowana-java-testowanie" type="b2602c69:ProjectViewProjectNode" />
+              <item name="mocking" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="test" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="unittesting" type="462c0819:PsiDirectoryNode" />
+              <item name="mockito" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="zaawansowana-java-testowanie" type="b2602c69:ProjectViewProjectNode" />
+              <item name="mocking" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="test" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="unittesting" type="462c0819:PsiDirectoryNode" />
+              <item name="mockito" type="462c0819:PsiDirectoryNode" />
+              <item name="routefinder" type="462c0819:PsiDirectoryNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
+      <pane id="PackagesPane" />
+      <pane id="Scope" />
+      <pane id="AndroidView" />
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../../../journaldev/Mockito-Examples" />
+    <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager" selected="JUnit.RouteObtainerServiceTest.shouldReturnRouteFromCache">
+    <configuration default="true" type="Applet">
+      <option name="POLICY_FILE" value="$APPLICATION_HOME_DIR$/bin/appletviewer.policy" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration default="true" type="Application" factoryName="Application">
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="GeneralMockitoStubsExamples" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="zaawansowana-java-testowanie" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="transition.technologies.unittesting.mockito.examples.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="transition.technologies.unittesting.mockito.examples" />
+      <option name="MAIN_CLASS_NAME" value="transition.technologies.unittesting.mockito.examples.GeneralMockitoStubsExamples" />
+      <option name="TEST_OBJECT" value="class" />
+      <option name="WORKING_DIRECTORY" value="%MODULE_WORKING_DIR%" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="PersonBuilderTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="zaawansowana-java-testowanie" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="transition.technologies.unittesting.mockito.examples.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="transition.technologies.unittesting.mockito.examples" />
+      <option name="MAIN_CLASS_NAME" value="transition.technologies.unittesting.mockito.examples.PersonBuilderTest" />
+      <option name="TEST_OBJECT" value="class" />
+      <option name="WORKING_DIRECTORY" value="%MODULE_WORKING_DIR%" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="PersonReportFormatterTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="zaawansowana-java-testowanie" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="transition.technologies.unittesting.mockito.examples.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="transition.technologies.unittesting.mockito.examples" />
+      <option name="MAIN_CLASS_NAME" value="transition.technologies.unittesting.mockito.examples.PersonReportFormatterTest" />
+      <option name="TEST_OBJECT" value="class" />
+      <option name="WORKING_DIRECTORY" value="%MODULE_WORKING_DIR%" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="RouteObtainerServiceTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="zaawansowana-java-testowanie" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="transition.technologies.unittesting.mockito.routefinder.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="transition.technologies.unittesting.mockito.routefinder" />
+      <option name="MAIN_CLASS_NAME" value="transition.technologies.unittesting.mockito.routefinder.RouteObtainerServiceTest" />
+      <option name="TEST_OBJECT" value="class" />
+      <option name="WORKING_DIRECTORY" value="%MODULE_WORKING_DIR%" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="RouteObtainerServiceTest.shouldReturnRouteFromCache" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="zaawansowana-java-testowanie" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="transition.technologies.unittesting.mockito.routefinder.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="transition.technologies.unittesting.mockito.routefinder" />
+      <option name="MAIN_CLASS_NAME" value="transition.technologies.unittesting.mockito.routefinder.RouteObtainerServiceTest" />
+      <option name="METHOD_NAME" value="shouldReturnRouteFromCache" />
+      <option name="TEST_OBJECT" value="method" />
+      <option name="WORKING_DIRECTORY" value="%MODULE_WORKING_DIR%" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration default="true" type="JUnit" factoryName="JUnit">
+      <option name="TEST_OBJECT" value="class" />
+      <option name="WORKING_DIRECTORY" value="%MODULE_WORKING_DIR%" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration default="true" type="TestNG">
+      <option name="TEST_OBJECT" value="CLASS" />
+      <option name="WORKING_DIRECTORY" value="%MODULE_WORKING_DIR%" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration default="true" type="#org.jetbrains.idea.devkit.run.PluginConfigurationType">
+      <module name="" />
+      <option name="VM_PARAMETERS" value="-Xmx512m -Xms256m -XX:MaxPermSize=250m -ea" />
+      <option name="PROGRAM_PARAMETERS" />
+      <predefined_log_file enabled="true" id="idea.log" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <list>
+      <item itemvalue="JUnit.GeneralMockitoStubsExamples" />
+      <item itemvalue="JUnit.PersonBuilderTest" />
+      <item itemvalue="JUnit.PersonReportFormatterTest" />
+      <item itemvalue="JUnit.RouteObtainerServiceTest" />
+      <item itemvalue="JUnit.RouteObtainerServiceTest.shouldReturnRouteFromCache" />
+    </list>
+    <recent_temporary>
+      <list>
+        <item itemvalue="JUnit.RouteObtainerServiceTest.shouldReturnRouteFromCache" />
+        <item itemvalue="JUnit.RouteObtainerServiceTest" />
+        <item itemvalue="JUnit.PersonReportFormatterTest" />
+        <item itemvalue="JUnit.PersonBuilderTest" />
+        <item itemvalue="JUnit.GeneralMockitoStubsExamples" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="1ee59b46-92f4-4c77-bab9-e8ee5438e8ed" name="Default" comment="" />
+      <created>1521406032946</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1521406032946</updated>
+      <workItem from="1521406034413" duration="1338000" />
+      <workItem from="1553524545916" duration="3593000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TestHistory">
+    <history-entry file="GeneralMockitoStubsExamples - 2018.03.18 at 22h 46m 14s.xml">
+      <configuration name="GeneralMockitoStubsExamples" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="PersonBuilderTest - 2018.03.18 at 22h 46m 21s.xml">
+      <configuration name="PersonBuilderTest" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="PersonReportFormatterTest - 2018.03.18 at 22h 46m 26s.xml">
+      <configuration name="PersonReportFormatterTest" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="RouteObtainerServiceTest - 2018.03.18 at 22h 46m 31s.xml">
+      <configuration name="RouteObtainerServiceTest" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="RouteObtainerServiceTest_shouldReturnRouteFromCache - 2019.03.25 at 21h 07m 51s.xml">
+      <configuration name="RouteObtainerServiceTest.shouldReturnRouteFromCache" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="RouteObtainerServiceTest - 2019.03.25 at 21h 07m 59s.xml">
+      <configuration name="RouteObtainerServiceTest" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="RouteObtainerServiceTest_shouldReturnRouteFromCache - 2019.03.25 at 21h 46m 22s.xml">
+      <configuration name="RouteObtainerServiceTest.shouldReturnRouteFromCache" configurationId="JUnit" />
+    </history-entry>
+  </component>
+  <component name="TimeTrackingManager">
+    <option name="totallyTimeSpent" value="4931000" />
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="67" y="25" width="1853" height="1055" extended-state="6" />
+    <editor active="true" />
+    <layout>
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.25179857" />
+      <window_info id="Structure" order="1" weight="0.25" />
+      <window_info id="Learn" order="2" />
+      <window_info id="Image Layers" order="3" />
+      <window_info id="Designer" order="4" />
+      <window_info id="UI Designer" order="5" />
+      <window_info id="Capture Tool" order="6" />
+      <window_info id="Favorites" order="7" side_tool="true" />
+      <window_info anchor="bottom" id="Database Changes" />
+      <window_info anchor="bottom" id="Docker" />
+      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="bottom" id="Find" order="1" />
+      <window_info active="true" anchor="bottom" id="Run" order="2" visible="true" weight="0.27429804" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info anchor="bottom" id="TODO" order="6" />
+      <window_info anchor="bottom" id="Terminal" order="7" />
+      <window_info anchor="bottom" id="Event Log" order="8" side_tool="true" />
+      <window_info anchor="bottom" id="Version Control" order="9" />
+      <window_info anchor="bottom" id="Messages" order="10" />
+      <window_info anchor="right" id="Maven" />
+      <window_info anchor="right" id="Key Promoter X" />
+      <window_info anchor="right" id="Commander" order="0" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+      <window_info anchor="right" id="Palette" order="3" />
+      <window_info anchor="right" id="Capture Analysis" order="4" />
+      <window_info anchor="right" id="Theme Preview" order="5" />
+      <window_info anchor="right" id="Database" order="6" />
+      <window_info anchor="right" id="Palette&#9;" order="7" />
+      <window_info anchor="right" id="Maven Projects" order="8" />
+    </layout>
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/src/test/java/transition/technologies/unittesting/mockito/examples/GeneralMockitoStubsExamples.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="60">
+          <caret line="28" column="13" selection-start-line="28" selection-start-column="13" selection-end-line="28" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/java/transition/technologies/unittesting/mockito/examples/PersonBuilderTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="60">
+          <caret line="10" column="13" selection-start-line="10" selection-start-column="13" selection-end-line="10" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/java/transition/technologies/unittesting/mockito/examples/PersonReportFormatterTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="75">
+          <caret line="17" column="13" selection-start-line="17" selection-start-column="13" selection-end-line="17" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/transition/technologies/unittesting/mockito/routefinder/RouteCalculatorWebService.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="60">
+          <caret line="7" column="17" selection-start-line="7" selection-start-column="17" selection-end-line="7" selection-end-column="17" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/transition/technologies/unittesting/mockito/routefinder/RouteObtainerService.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="450">
+          <caret line="30" column="51" selection-start-line="30" selection-start-column="51" selection-end-line="30" selection-end-column="51" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/transition/technologies/unittesting/mockito/routefinder/RouteCache.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="30">
+          <caret line="2" column="13" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/java/transition/technologies/unittesting/mockito/routefinder/RouteObtainerTestUtil.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="60">
+          <caret line="4" column="13" selection-start-line="4" selection-start-column="13" selection-end-line="4" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/java/transition/technologies/unittesting/mockito/routefinder/RouteObtainerServiceTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="450">
+          <caret line="69" selection-start-line="69" selection-end-line="70" selection-end-column="49" />
+        </state>
+      </provider>
+    </entry>
+  </component>
+</project>
