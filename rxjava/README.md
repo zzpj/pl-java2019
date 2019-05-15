@@ -1,5 +1,7 @@
 # RxJava in legacy projects - live coding session
 
+Introduction to reactive programming - https://gist.github.com/staltz/868e7e9bc2a7b8c1f754
+
 Rough agenda follows:
 
 ## `CompletableFuture`
