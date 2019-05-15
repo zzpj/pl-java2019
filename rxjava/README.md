@@ -37,17 +37,6 @@ Similarities
 * `timeout()`, `retry()`, `doOnError()`
 * `assertNoValues()`, `assertNoErrors()`
 
-## `ReactiveCamel`
-
-	CamelContext camel = new DefaultCamelContext();
-	ReactiveCamel reactiveCamel = new ReactiveCamel(camel);
-	reactiveCamel
-			.toObservable("activemq:queue:rx-queue")
-			.map(Message::getBody)
-			.toBlocking()
-			.subscribe(e ->
-					log.info("Message: {}", e));
-
 ## `Observable.flatMap()`
 
 * Parallel fetching of URLs
